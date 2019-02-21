@@ -1,5 +1,5 @@
 # Project Description:
-This project is a tool that allows users to input the name of a New York Times Bestseller list and receive a csv of data from both the New York Times and GoodReads about the books on that list. The data that the user receives includes the 
+This project is a tool that allows users to input the name of a New York Times Bestseller list and receive a csv of data from both the New York Times and GoodReads about the books on that list. The data the user receives includes: 
 * title 
 * author
 * bestseller rank
