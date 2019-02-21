@@ -16,7 +16,7 @@ The program also caches data when a request is made  so there are not excessive 
 
 # Files:
 1. [the project file](https://github.com/cikeddy/NYTGoodreadsBookData/blob/master/SI506F18_final_project.py): SI506F18_final_project.py
-2. [a sample file](https://github.com/cikeddy/NYTGoodreadsBookData/blob/master/SAMPLE_outpus.csv) for the output -> SAMPLE_output.csv
+2. [a sample file](https://github.com/cikeddy/NYTGoodreadsBookData/blob/master/SAMPLE_output.csv) for the output -> SAMPLE_output.csv
 
 # Modules:
 The json, requests, and csv modules are used in this project. For a list of requirements check the [requirements file](https://github.com/cikeddy/NYTGoodreadsBookData/blob/master/requirements.txt)
