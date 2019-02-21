@@ -1,5 +1,5 @@
 # Project Description:
-My project is a tool that allows users to input the name of a New York Times Bestseller list and receive a csv of data from both the New York Times and GoodReads about the books on that list. The data that the user receives includes the 
+This project is a tool that allows users to input the name of a New York Times Bestseller list and receive a csv of data from both the New York Times and GoodReads about the books on that list. The data that the user receives includes the 
 * title 
 * author
 * bestseller rank
@@ -9,9 +9,9 @@ My project is a tool that allows users to input the name of a New York Times Bes
 * number of Goodreads ratings
 * number of Goodreads reviews
 * number of Goodreads text reviews
-* Goodreads grand total rating (average rating * number of ratings). 
+* Goodreads grand total rating (average rating * number of ratings)
 
-The program also caches data when a request is called so there aren not excessive requests to the NYT and Goodreads APIs.
+The program also caches data when a request is made  so there are not excessive requests to the NYT and Goodreads APIs.
 
 
 # Files:
